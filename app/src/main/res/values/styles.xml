@@ -20,6 +20,7 @@
     <style name="ButtonTheme" parent="android:Widget.Button">
         <item name="android:backgroundTint">@color/pluralsight_orange</item>>
         <item name="android:textStyle">bold</item>
+
     </style>
 
 
